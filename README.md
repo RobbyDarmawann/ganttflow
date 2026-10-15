@@ -126,22 +126,7 @@ tujuan sistem, serta daftar fitur teknis aplikasi.
 
 ## 3. Tangkapan Layar (Screenshot)
 
-Letakkan gambar tangkapan layar pada folder **`docs/screenshots/`** lalu
-sesuaikan nama berkas berikut.
 
-| No  | Tampilan                                   | Nama Berkas yang Disarankan             | Status         |
-| --- | ------------------------------------------ | --------------------------------------- | -------------- |
-| 1   | Split view: tabel WBS + linimasa           | `docs/screenshots/01-gantt.png`         | ⬜ belum diisi |
-| 2   | Split view — jalur kritis aktif            | `docs/screenshots/02-critical-path.png` | ⬜ belum diisi |
-| 3   | Zoom Mingguan / Bulanan                    | `docs/screenshots/03-zoom.png`          | ⬜ belum diisi |
-| 4   | Diagram Jaringan / PERT                    | `docs/screenshots/04-network.png`       | ⬜ belum diisi |
-| 5   | Modal tugas komprehensif (durasi otomatis) | `docs/screenshots/05-task-form.png`     | ⬜ belum diisi |
-| 6   | Modal Tentang Sistem                       | `docs/screenshots/06-about.png`         | ⬜ belum diisi |
-
-Setelah gambar diletakkan, hapus komentar (`<!--` … `-->`) pada baris berikut
-agar tampil di README ini:
-
-<!--
 
 ![Gantt Chart](docs/screenshots/01-gantt.png)
 ![Jalur Kritis](docs/screenshots/02-critical-path.png)
@@ -150,7 +135,7 @@ agar tampil di README ini:
 ![Form Tugas](docs/screenshots/05-task-form.png)
 ![Tentang Aplikasi](docs/screenshots/06-about.png)
 
--->
+
 
 ---
 
