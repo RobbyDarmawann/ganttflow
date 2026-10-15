@@ -127,12 +127,17 @@ tujuan sistem, serta daftar fitur teknis aplikasi.
 ## 3. Tangkapan Layar (Screenshot)
 
 
-
+- Homepage
 ![Gantt Chart](docs/screenshots/01-gantt.png)
+- Homepage -Jalur Kritis
 ![Jalur Kritis](docs/screenshots/02-critical-path.png)
+- Homepage -filter mingguan
 ![Zoom Mingguan](docs/screenshots/03-zoom.png)
+- Diagram Jaringan
 ![Diagram Jaringan](docs/screenshots/04-network.png)
+- add task -Form Tugas
 ![Form Tugas](docs/screenshots/05-task-form.png)
+- about
 ![Tentang Aplikasi](docs/screenshots/06-about.png)
 
 
